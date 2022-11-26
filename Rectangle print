@@ -1,0 +1,18 @@
+a = 5
+#print('*'*a)
+
+for j in range(a):
+  for j in range(a):
+     print("*", end = "")
+  print()
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
